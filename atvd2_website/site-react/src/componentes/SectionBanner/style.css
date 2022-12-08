@@ -1,0 +1,39 @@
+
+#banner {
+    display: flex;
+    position: relative;
+    height: 550px;
+    border: 1px solid #dcdceb;
+    background: #fff;
+    border-radius: 10px;
+    color:  #9c34b1;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#banner h1 {
+    margin: 60px 0 0 45px;
+    font-weight: 300;
+    font-size: 25px;
+}
+#banner h3 {
+    margin-top: 16px;
+    margin-left: 45px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 36px;
+    margin-bottom: 32px;
+}
+#banner .banner-content {
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 650px;
+    background: linear-gradient(270deg, rgba(255, 255, 255, 0), #ffffff 50%);
+}
+
+
+
+
+
